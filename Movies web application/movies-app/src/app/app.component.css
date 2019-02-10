@@ -1,0 +1,30 @@
+
+.text-style {
+    font-size: 16px;
+}
+
+.nav-bar {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid;
+}
+
+.text-search {
+    border: 2px solid;
+    border-radius: 5px;
+    height: 40px;
+    width: 50%;
+}
+
+.text-color {
+    color: white;
+}
+
+.middle {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}

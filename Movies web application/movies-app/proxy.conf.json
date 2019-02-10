@@ -1,0 +1,10 @@
+{
+    "/movies": {
+      "target": "http://starlord.hackerearth.com/movies",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/movies": ""
+    }
+    }
+  }
